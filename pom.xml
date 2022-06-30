@@ -20,7 +20,7 @@
       		<id>github</id>
       		<name>GitHub Packages</name>
       		<url>https://maven.pkg.github.com/agaananda/contohlagi</url>
-    	</repository>
+    	  </repository>
   	</distributionManagement>
 	
 	<properties>
